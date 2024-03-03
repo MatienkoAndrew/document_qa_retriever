@@ -1,0 +1,8 @@
+# Files
+credentials.yaml
+
+# Datasets
+lesson_0
+.ipynb_checkpoints
+outputs/
+.DS_Store

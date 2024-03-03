@@ -1,0 +1,3 @@
+defaults:
+  - credentials: credentials
+  - app: app

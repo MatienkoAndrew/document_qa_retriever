@@ -1,0 +1,12 @@
+embedding_model: sentence-transformers/all-mpnet-base-v2
+# DeepPavlov/bert-base-multilingual-cased-sentence
+# sentence-transformers/all-MiniLM-l6-v2
+filepath: ./datasets/new_articles/
+persist_directory_name: db
+queries:
+  - What is the news about Pando?
+  - How much money did Pando raise?
+  - Who led the round in Pando?
+  - What did databricks acquire?
+  - What is generative ai?
+  - Who is CMA?
